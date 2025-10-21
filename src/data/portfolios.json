@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Rajdeep Kushwaha",
+    "bio": "Creative developer building stunning interactive web experiences with modern design.",
+    "techStack": ["React", "TypeScript", "Node.js"],
+    "githubUrl": "https://github.com/RajdeepKushwaha5/Lumen-by-RJDP",
+    "liveUrl": "https://rajdeepkushwaha5.github.io/Lumen-by-RJDP/",
+    "imageUrl": "https://picsum.photos/seed/lumen1/600/400",
+    "likes": 0,
+    "country": "India"
+  },
+  {
+    "id": 2,
+    "name": "Rajdeep Kushwaha",
+    "bio": "Terminal-inspired portfolio with unique command-line interface design.",
+    "techStack": ["React", "TypeScript"],
+    "githubUrl": "https://github.com/RajdeepKushwaha5/terminal-theme-portfolio",
+    "liveUrl": "https://rajdeepkushwaha5.github.io/terminal-theme-portfolio/",
+    "imageUrl": "https://picsum.photos/seed/terminal/600/400",
+    "likes": 0,
+    "country": "India"
+  },
+  {
+    "id": 3,
+    "name": "Rajdeep Kushwaha",
+    "bio": "Lumen 2.0 - Enhanced portfolio with advanced animations and interactions.",
+    "techStack": ["React", "TypeScript", "Node.js"],
+    "githubUrl": "https://github.com/RajdeepKushwaha5/Lumen-2.0",
+    "liveUrl": "https://rajdeepkushwaha5.github.io/Lumen-2.0/",
+    "imageUrl": "https://picsum.photos/seed/lumen2/600/400",
+    "likes": 0,
+    "country": "India"
+  },
+  {
+    "id": 4,
+    "name": "Rajdeep Kushwaha",
+    "bio": "Lumen Part 4 - Latest iteration with cutting-edge web technologies.",
+    "techStack": ["React", "TypeScript"],
+    "githubUrl": "https://github.com/RajdeepKushwaha5/Lumen-by-RJDP-Part4",
+    "liveUrl": "https://rajdeep-lumen4.vercel.app/",
+    "imageUrl": "https://picsum.photos/seed/lumen4/600/400",
+    "likes": 0,
+    "country": "India"
+  }
+]

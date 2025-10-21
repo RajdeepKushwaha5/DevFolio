@@ -152,8 +152,11 @@ All of this happens **automatically** - no manual intervention required!
 
 ## 📸 Screenshots
 
-### Light Mode
-![Light Mode](https://via.placeholder.com/800x400?text=Light+Mode+Screenshot)
+<img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/938a636c-cea9-44e0-9086-34f1433afcab" />
+
+---
+<img width="1919" height="857" alt="image" src="https://github.com/user-attachments/assets/163da14a-ae45-493a-9f3c-9ed541f776d0" />
+
 
 ### Dark Mode
 ![Dark Mode](https://via.placeholder.com/800x400?text=Dark+Mode+Screenshot)

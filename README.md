@@ -157,9 +157,9 @@ All of this happens **automatically** - no manual intervention required!
 ---
 <img width="1919" height="857" alt="image" src="https://github.com/user-attachments/assets/163da14a-ae45-493a-9f3c-9ed541f776d0" />
 
+---
+<img width="1919" height="587" alt="image" src="https://github.com/user-attachments/assets/3f4d6793-091a-4662-bd32-55fd5e85eeaf" />
 
-### Dark Mode
-![Dark Mode](https://via.placeholder.com/800x400?text=Dark+Mode+Screenshot)
 
 
 ## 🐛 Found a Bug?

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#2563eb" />
+    
+    <!-- SEO and Social Sharing Meta Tags -->
+    <title>DevFolio Showcase - Discover Exceptional Developer Portfolios</title>
+    <meta name="description" content="Explore exceptional portfolios from talented developers worldwide. Discover innovative projects, cutting-edge technologies, and connect with top talent in the developer community." />
+    <meta name="keywords" content="developer portfolios, web development, software engineering, tech showcase, developer community, coding projects" />
+    <meta name="author" content="DevFolio Showcase" />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://example.com/" />
+    <meta property="og:title" content="DevFolio Showcase - Discover Exceptional Developer Portfolios" />
+    <meta property="og:description" content="Explore exceptional portfolios from talented developers worldwide. Get inspired by innovative projects and cutting-edge technologies." />
+    <meta property="og:image" content="https://picsum.photos/seed/devfolio-og/1200/630" />
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://example.com/" />
+    <meta property="twitter:title" content="DevFolio Showcase - Discover Exceptional Developer Portfolios" />
+    <meta property="twitter:description" content="Explore exceptional portfolios from talented developers worldwide. Get inspired and connect." />
+    <meta property="twitter:image" content="https://picsum.photos/seed/devfolio-twitter/1200/630" />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        darkMode: 'class',
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ['Inter', 'sans-serif'],
+            },
+            colors: {
+              'primary': {
+                '50': '#eff6ff',
+                '100': '#dbeafe',
+                '200': '#bfdbfe',
+                '300': '#93c5fd',
+                '400': '#60a5fa',
+                '500': '#3b82f6',
+                '600': '#2563eb',
+                '700': '#1d4ed8',
+                '800': '#1e40af',
+                '900': '#1e3a8a',
+                '950': '#172554'
+              }
+            }
+          }
+        }
+      }
+    </script>
+  <script type="importmap">
+{
+  "imports": {
+    "@google/genai": "https://aistudiocdn.com/@google/genai@^1.25.0",
+    "react/": "https://aistudiocdn.com/react@^19.2.0/",
+    "react": "https://aistudiocdn.com/react@^19.2.0",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>

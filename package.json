@@ -1,0 +1,47 @@
+{
+  "name": "devfolio-showcase",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A modern, open-source platform to showcase developer portfolios from around the world",
+  "author": {
+    "name": "Rajdeep Singh Kushwaha",
+    "url": "https://rajdeep-singh.vercel.app/",
+    "email": "contact via LinkedIn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RajdeepKushwaha5/DevFolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RajdeepKushwaha5/DevFolio/issues"
+  },
+  "homepage": "https://devfolio-showcase.vercel.app",
+  "keywords": [
+    "portfolio",
+    "showcase",
+    "developer",
+    "react",
+    "typescript",
+    "vite",
+    "open-source"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}

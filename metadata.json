@@ -1,0 +1,5 @@
+{
+  "name": "DevFolio Showcase",
+  "description": "A modern, responsive web application to showcase a collection of developer portfolios, featuring search, filtering, dark/light modes, and AI-powered recommendations.",
+  "requestFramePermissions": []
+}

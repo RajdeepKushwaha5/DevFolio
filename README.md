@@ -10,7 +10,7 @@
 
 **A modern, open-source platform to showcase developer portfolios from around the world** 🌍
 
-[View Live Demo](https://devfolio-showcase.vercel.app) · [Add Your Portfolio](CONTRIBUTING.md) · [Report Bug](https://github.com/RajdeepKushwaha5/DevFolio/issues)
+[View Live Demo](https://devfolio-showcase.vercel.app/) · [Add Your Portfolio](CONTRIBUTING.md) · [Report Bug](https://github.com/RajdeepKushwaha5/DevFolio/issues)
 
 </div>
 
@@ -208,7 +208,7 @@ If you find this project useful, please consider giving it a ⭐️ on GitHub!
 
 <div align="center">
 
-**Made with ❤️ by developers, for developers**
+**Made with ❤️ by Rajdeep Singh**
 
 [Add Your Portfolio](CONTRIBUTING.md) · [View Showcase](https://devfolio-showcase.vercel.app) · [Star on GitHub](https://github.com/RajdeepKushwaha5/DevFolio/stargazers)
 
